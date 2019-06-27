@@ -1,0 +1,6 @@
+name: "BetaZombies"
+author: "Caleb Bassham"
+version: "1.0"
+main: "me.calebbassham.scenario.betazombies.Plugin"
+api-version: "1.14"
+depend: [ScenarioManager]
